@@ -1,6 +1,6 @@
-# Exclave
+# Bhaturay
 
-Exclave is a proxy client.
+A Fork of Exclave with added features.
 
 <details>
 
