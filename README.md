@@ -36,7 +36,7 @@ It is a fork of the archived Android proxy client SagerNet and uses a custom ove
 
 ## Download
 
-- Exclave
+- Bhaturay
 
   [Download from GitHub releases](https://github.com/Praveenhalder/Bhaturay/releases/)
   
